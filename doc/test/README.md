@@ -42,10 +42,7 @@
 ## board 
 
 - [board 须知](./board/board_start.md)
-
 - [board 指导](./board/board_support.md)
-
-  
 
 ## arch 
 
