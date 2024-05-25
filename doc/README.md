@@ -1,34 +1,10 @@
 # 小队工作指南
 
-## 目录结构说明
+## 工作指南说明
 
-```bash
-| - uniproton
-|	| - ...
-|	| - ...
-| - mica
-|	| - ...
-|	| - ...
-| - minimal_uniproton
-|	| - ....
-|	| - ...
-| - board_support
-|	| - ...
-| - test
-|	| - ...
-| - ...
-```
-
-- uniproton
-  - uniproton 项目相关子模块
-- mica
-  - mica 项目相关子模块
-- minimal_uniproton
-  - minimal_uniproton 相关子模块
-- board_support
-  - 板卡支持相关子模块
-- test
-  - 入门测试子模块
+- 下面的**每个大标题都是 oerv-rtos 目前在进行的项目任务**
+- 你首先应该了解的是 **每个项目的大体内容和入门文档**
+- 完成之后，**你需要通过 oerv-rtos test项目 中的某一个子模块的测试**，即可加入到 oerv-rtos 小队进行工作
 
 
 ## oerv-rtos test
