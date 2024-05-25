@@ -14,6 +14,8 @@
 |	| - ...
 | - board_support
 |	| - ...
+| - test
+|	| - ...
 | - ...
 ```
 
@@ -25,12 +27,32 @@
   - minimal_uniproton 相关子模块
 - board_support
   - 板卡支持相关子模块
+- test
+  - 入门测试子模块
 
+
+## oerv-rtos test
+
+- oerv-rtos test 主要权限开发者 in oerv-rtos
+  - 罗君@Jer6y
+- oerv-rtos test
+  - [oerv-rtos test说明](./test/README.md)
+- oerv-rtos test 文档
+  - 暂无
+- oerv-rtos test issue
+  - 暂无
+- oerv-rtos case
+  - 暂无
+- oerv-rtos test 子模块
+  - 暂无
 
 ## UniProton
 
 - UniProton RISCV 主要权限开发者 in oerv-rtos
   - 罗君@Jer6y
+- UniProton 
+  - [uniproton 项目说明](./uniproton/README.md)
+
 - UniProton 文档
   - [在qemu 上运行 UniProton](./uniproton/run_uniproton.md) 
   - [使用内核级别的API 进行应用开发](./uniproton/uniproton_demo.md)
@@ -45,21 +67,23 @@
 - UniProton case
   - [uniproton case 说明](./uniproton/uniproton_case.md)
 - UniProton 子模块
-  - uniproton kernel 
-  - uniproton arch
-  - uniproton ci
-  - uniproton litelibc
+  - [uniproton kernel](./uniproton/kernel/README.md) 
+  - [uniproton arch](./uniproton/arch/README.md)
+  - [uniproton ci](./uniproton/ci/README.md)
+  - [uniproton litelibc](./uniproton/litelibc/README.md)
   - uniproton shell
   - uniproton fs
   - uniproton net
-  - uniproton rpmsglite 
+  - [uniproton rpmsglite](./uniproton/rpmsglite/README.md) 
   - uniproton gdb_stub
-  - uniproton 入门测试模块
 
 ## MICA
 
 - MICA RISCV 主要权限开发者 in oerv-rtos
   - 暂无
+- MICA
+  - MICA项目说明
+
 - MICA 文档
   - 暂无
 - MICA issue
@@ -73,6 +97,9 @@
 
 - Minimal_UniProton 主要权限开发者 in oerv-rtos
   - 罗君@Jer6y
+- Minimal UniProton
+  - minimal uniproton 项目说明
+
 - Minimal UniProton 文档
   - 暂无
 - Minimal UniProton  issue
@@ -86,6 +113,9 @@
 
 - Board Support 主要权限开发者 in oerv-rtos
   - 罗君@Jer6y
+- Board_Support
+  - board_support 项目说明
+
 - Board_Support 文档
   - 暂无
 - Board_Support issue
