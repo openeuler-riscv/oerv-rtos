@@ -100,5 +100,19 @@
   - Milkv-duo 小核 
   - dongshanpi-d1s
 
+# RTOS Support
+
+- RTOS Support 主要权限开发者 in oerv-rtos
+  - 罗君@Jer6y
+- RTOS Support
+  - rtos_support 项目说明
+
+- Board_Support 文档
+  - [support matrix](./rtos_support/support.md)
+- Board_Support issue
+  - 暂无
+- Board_Supported 子模块
+  - 暂无
+
 # QA	
 
